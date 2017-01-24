@@ -6,7 +6,7 @@
 	<meta name="description" content="un chiffre aleatoire entre 1 et 10 grâce à php : <?php echo rand(1,10); ?>"/>
 </head>
 <body>
-	<?php echo "Cette ligne a été écrite \"uniquement\" en PHP."; ?>
+	<?php echo "Cette ligne a été écrite \"uniquement\" en PHP." ?>
 	<?php phpinfo(); ?>
 </body>
 </html>
