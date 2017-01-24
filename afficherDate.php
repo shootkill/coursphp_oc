@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>creationDate</title>
+	<title>afficherDate</title>
 </head>
 <body>
 	<h1>Ma page web</h1>
