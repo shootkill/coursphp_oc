@@ -7,5 +7,6 @@
 </head>
 <body>
 	<?php echo "Cette ligne a été écrite \"uniquement\" en PHP."; ?>
+	<?php phpinfo(); ?>
 </body>
 </html>
